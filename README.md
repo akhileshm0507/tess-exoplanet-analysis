@@ -76,7 +76,7 @@ The BLS periodogram shows its strongest peak at the true period, with weaker pea
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tess-exoplanet-analysis
+git clone https://github.com/akhileshm0507/tess-exoplanet-analysis
 cd tess-exoplanet-analysis
 pip install -r requirements.txt
 jupyter notebook tess_transit_notebook.ipynb
