@@ -1,5 +1,12 @@
 # TESS Exoplanet Transit Light Curve Analysis
 
+![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![Lightkurve](https://img.shields.io/badge/Lightkurve-2.6.0-4B8BBE)
+![batman](https://img.shields.io/badge/batman-2.5.3-8A2BE2)
+![Data](https://img.shields.io/badge/Data-NASA%20TESS%20%2F%20MAST-0B3D91)
+![Target](https://img.shields.io/badge/Target-WASP--39b-orange)
+
 A Python pipeline that takes raw TESS space-telescope photometry of the hot Jupiter **WASP-39b**, cleans it, blindly recovers the planet's orbital period, and fits a physical transit model to measure the planet's size and orbit.
 
 This is a learning project. The goal was to understand each step of a standard transit analysis end to end, and to be honest about where the result falls short of the published values (see [Limitations](#limitations)).
