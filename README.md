@@ -97,3 +97,7 @@ Needs an internet connection on first run to download the TESS data from MAST. T
 - Lightkurve Collaboration (2018). *Lightkurve: Kepler and TESS time series analysis in Python.* Astrophysics Source Code Library.
 - Faedi et al. (2011). *WASP-39b: a highly inflated Saturn-mass planet orbiting a late G-type star.* A&A, 531, A40.
 - Rustamkulov et al. (2023). *Early Release Science of the exoplanet WASP-39b with JWST NIRSpec PRISM.* Nature, 614, 659.
+
+## Author
+
+Akhilesh Mahajan, Honours Physics (Astrophysics and Computing minors), University of Waterloo.
